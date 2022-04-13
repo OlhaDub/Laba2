@@ -1,0 +1,16 @@
+D:\Програмки\спец\Coop\Coop\bin\Debug\net5.0\Coop.exe
+D:\Програмки\спец\Coop\Coop\bin\Debug\net5.0\Coop.deps.json
+D:\Програмки\спец\Coop\Coop\bin\Debug\net5.0\Coop.runtimeconfig.json
+D:\Програмки\спец\Coop\Coop\bin\Debug\net5.0\Coop.runtimeconfig.dev.json
+D:\Програмки\спец\Coop\Coop\bin\Debug\net5.0\Coop.dll
+D:\Програмки\спец\Coop\Coop\bin\Debug\net5.0\ref\Coop.dll
+D:\Програмки\спец\Coop\Coop\bin\Debug\net5.0\Coop.pdb
+D:\Програмки\спец\Coop\Coop\obj\Debug\net5.0\Coop.csproj.AssemblyReference.cache
+D:\Програмки\спец\Coop\Coop\obj\Debug\net5.0\Coop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програмки\спец\Coop\Coop\obj\Debug\net5.0\Coop.AssemblyInfoInputs.cache
+D:\Програмки\спец\Coop\Coop\obj\Debug\net5.0\Coop.AssemblyInfo.cs
+D:\Програмки\спец\Coop\Coop\obj\Debug\net5.0\Coop.csproj.CoreCompileInputs.cache
+D:\Програмки\спец\Coop\Coop\obj\Debug\net5.0\Coop.dll
+D:\Програмки\спец\Coop\Coop\obj\Debug\net5.0\ref\Coop.dll
+D:\Програмки\спец\Coop\Coop\obj\Debug\net5.0\Coop.pdb
+D:\Програмки\спец\Coop\Coop\obj\Debug\net5.0\Coop.genruntimeconfig.cache
