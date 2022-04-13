@@ -1,0 +1,32 @@
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.exe
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.deps.json
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.runtimeconfig.json
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.runtimeconfig.dev.json
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.dll
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\bin\Debug\net5.0\ref\Practic 2.2.dll
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.pdb
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.csproj.AssemblyReference.cache
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.AssemblyInfoInputs.cache
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.AssemblyInfo.cs
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.csproj.CoreCompileInputs.cache
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.dll
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\obj\Debug\net5.0\ref\Practic 2.2.dll
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.pdb
+D:\Програмки\лаби\Practic 2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.genruntimeconfig.cache
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.exe
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.deps.json
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.runtimeconfig.json
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.runtimeconfig.dev.json
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.dll
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\bin\Debug\net5.0\ref\Practic 2.2.dll
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\bin\Debug\net5.0\Practic 2.2.pdb
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.csproj.AssemblyReference.cache
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.AssemblyInfoInputs.cache
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.AssemblyInfo.cs
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.csproj.CoreCompileInputs.cache
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.dll
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\obj\Debug\net5.0\ref\Practic 2.2.dll
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.pdb
+D:\Програмки\лаби\Practic_2.2\Practic 2.2\obj\Debug\net5.0\Practic 2.2.genruntimeconfig.cache
